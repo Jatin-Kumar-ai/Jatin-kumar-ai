@@ -1,9 +1,12 @@
 # 💫 About Me
 
-I am a **high school student**, an **ethical hacker**, and a **Python developer**.  
-I am currently deepening my knowledge in **ethical hacking** and exploring the world of **Artificial Intelligence**.  
+My name is **Jatin Kumar**.  
+I am a **14-year-old student**, currently studying in **8th standard**.
 
-🚀 My long-term goal is to **integrate AI with Cybersecurity** to create intelligent, secure, and future-ready systems.
+I am learning **Ethical Hacking** and **Artificial Intelligence** — both are currently **in progress**.  
+I enjoy understanding how systems work, how they can be secured, and how **AI can be integrated with cybersecurity** to build smarter and safer technologies.
+
+🎯 My goal is to **combine AI with Ethical Hacking** and explore the future of intelligent security systems.
 
 ---
 
@@ -18,38 +21,32 @@ I am currently deepening my knowledge in **ethical hacking** and exploring the w
 
 ## 💻 Tech Stack
 
-**Programming & Data**
+**Programming**
 - 🐍 Python  
-- 📊 NumPy, Pandas  
-- 📈 Matplotlib  
 
-**AI / ML (Learning & Exploring)**
-- 🤖 TensorFlow  
-- 🔥 PyTorch  
-- 📚 Scikit-learn  
+**Cybersecurity**
+- 🛡️ Ethical Hacking (Learning)  
 
-**Security & Platforms**
-- 🛡️ Ethical Hacking  
-- ☁️ AWS  
+**AI / ML**
+- 🤖 Artificial Intelligence (Learning)  
+
+**Tools & Platforms**
 - 🐧 Linux  
+- ☁️ AWS (Basics)  
 
 ---
 
 ## 🎯 Current Focus
 
-- 🔐 Ethical Hacking & Cybersecurity fundamentals  
-- 🐍 Python for automation and security tools  
-- 🤖 AI foundations for real-world applications  
-- 🧠 AI-powered Cybersecurity concepts  
+- 🔐 Ethical Hacking fundamentals  
+- 🐍 Python for automation  
+- 🤖 AI basics & concepts  
+- 🧠 Integrating AI with Cybersecurity  
 
 ---
 
-## 🧭 Vision
+## 👀 Profile Views
 
-> *To build secure digital systems where **Artificial Intelligence strengthens Cybersecurity**, not replaces it.*
+<img src="https://komarev.com/ghpvc/?username=Jatin-kumar-ai&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 
----
-
-### 👀 Profile Views
-[![](https://visitcount.itsvg.in/api?id=Jatin-kumar-ai&icon=0&color=0)](https://visitcount.itsvg.in)
 
