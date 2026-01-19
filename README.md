@@ -1,18 +1,55 @@
-# 💫 About Me:
-I am a  high school student and I am a ethical hacker and I also know the<br>python well Now I ma learning more about ethical hacking and I am also instrested in<br>ai enginner I want to intergrate the ai and cyber security <br>
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jatin.dev123) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/jatincoder123) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@InfiniteHacker-001) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Jatin.coder123@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Jatin-kumar-ai&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Jatin-kumar-ai&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jatin-kumar-ai&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h1 align="center">Hi 👋, I'm Chetan Kumar</h1>
+<h3 align="center">High School Student | Ethical Hacker | Python Developer | AI & Cybersecurity Enthusiast</h3>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Jatin-kumar-ai&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me  
+- 🎓 High school student with a strong passion for **technology & security**
+- 🛡️ **Ethical Hacker** with hands-on learning in cybersecurity concepts
+- 🐍 Proficient in **Python** for scripting, automation, and problem-solving
+- 🤖 Currently exploring **Artificial Intelligence**
+- 🔐 My goal is to **integrate AI with Cybersecurity** to build smarter and safer systems
+- 🌱 Always learning, experimenting, and improving my skills
+
+---
+
+## 🧠 Skills & Interests  
+- **Cybersecurity:** Ethical Hacking, Security Basics, Vulnerability Analysis  
+- **Programming:** Python  
+- **AI & ML:** Beginner-level AI concepts, future-focused learning  
+- **Tools & Tech:** Linux, Git, GitHub  
+- **Mindset:** Curiosity-driven, security-first thinking, continuous learning  
+
+---
+
+## 🎯 Current Focus  
+- 📌 Advanced Ethical Hacking techniques  
+- 📌 Python for security automation  
+- 📌 Foundations of AI & Machine Learning  
+- 📌 Applying AI in Cybersecurity use-cases  
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onedark&no-frame=true&row=1"/>
+</p>
+
+---
+
+## 🌐 Connect With Me  
+- 💻 GitHub: https://github.com/YOUR_GITHUB_USERNAME  
+- 📧 Email: yourprofessionalemail@gmail.com  
+
+---
+
+⭐ *I believe the future lies at the intersection of **AI & Cybersecurity** — and I’m working every day to be part of it.*
+
