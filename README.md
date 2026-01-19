@@ -1,55 +1,55 @@
-<h1 align="center">Hi 👋, I'm Chetan Kumar</h1>
-<h3 align="center">High School Student | Ethical Hacker | Python Developer | AI & Cybersecurity Enthusiast</h3>
+# 💫 About Me
+
+I am a **high school student**, an **ethical hacker**, and a **Python developer**.  
+I am currently deepening my knowledge in **ethical hacking** and exploring the world of **Artificial Intelligence**.  
+
+🚀 My long-term goal is to **integrate AI with Cybersecurity** to create intelligent, secure, and future-ready systems.
 
 ---
 
-## 🚀 About Me  
-- 🎓 High school student with a strong passion for **technology & security**
-- 🛡️ **Ethical Hacker** with hands-on learning in cybersecurity concepts
-- 🐍 Proficient in **Python** for scripting, automation, and problem-solving
-- 🤖 Currently exploring **Artificial Intelligence**
-- 🔐 My goal is to **integrate AI with Cybersecurity** to build smarter and safer systems
-- 🌱 Always learning, experimenting, and improving my skills
+## 🌐 Socials
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jatin.dev123)
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/jatincoder123)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@InfiniteHacker-001)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Jatin.coder123@gmail.com)
 
 ---
 
-## 🧠 Skills & Interests  
-- **Cybersecurity:** Ethical Hacking, Security Basics, Vulnerability Analysis  
-- **Programming:** Python  
-- **AI & ML:** Beginner-level AI concepts, future-focused learning  
-- **Tools & Tech:** Linux, Git, GitHub  
-- **Mindset:** Curiosity-driven, security-first thinking, continuous learning  
+## 💻 Tech Stack
+
+**Programming & Data**
+- 🐍 Python  
+- 📊 NumPy, Pandas  
+- 📈 Matplotlib  
+
+**AI / ML (Learning & Exploring)**
+- 🤖 TensorFlow  
+- 🔥 PyTorch  
+- 📚 Scikit-learn  
+
+**Security & Platforms**
+- 🛡️ Ethical Hacking  
+- ☁️ AWS  
+- 🐧 Linux  
 
 ---
 
-## 🎯 Current Focus  
-- 📌 Advanced Ethical Hacking techniques  
-- 📌 Python for security automation  
-- 📌 Foundations of AI & Machine Learning  
-- 📌 Applying AI in Cybersecurity use-cases  
+## 🎯 Current Focus
+
+- 🔐 Ethical Hacking & Cybersecurity fundamentals  
+- 🐍 Python for automation and security tools  
+- 🤖 AI foundations for real-world applications  
+- 🧠 AI-powered Cybersecurity concepts  
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="160"/>
-</p>
+## 🧭 Vision
+
+> *To build secure digital systems where **Artificial Intelligence strengthens Cybersecurity**, not replaces it.*
 
 ---
 
-## 🏆 GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onedark&no-frame=true&row=1"/>
-</p>
-
----
-
-## 🌐 Connect With Me  
-- 💻 GitHub: https://github.com/YOUR_GITHUB_USERNAME  
-- 📧 Email: yourprofessionalemail@gmail.com  
-
----
-
-⭐ *I believe the future lies at the intersection of **AI & Cybersecurity** — and I’m working every day to be part of it.*
+### 👀 Profile Views
+[![](https://visitcount.itsvg.in/api?id=Jatin-kumar-ai&icon=0&color=0)](https://visitcount.itsvg.in)
 
